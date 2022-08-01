@@ -1,5 +1,7 @@
 # chapter
 
+this makes an example for the tj and hosts a [diary](https://tj-king.github.io/Weltreise) here
+
 ## sub chapter 
 
 0. item 1
